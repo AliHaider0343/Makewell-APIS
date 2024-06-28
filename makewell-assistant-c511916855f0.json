@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "makewell-assistant",
+  "private_key_id": "c511916855f0da8a0ae71934ff1b244ca8b38238",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1Elr7q4hWMlS/\n6MIZExpUI8rGRYWjxIpdW4qfWbk0/fICYrTqs3xHmvSOatOXyyljqa93C+VaOrgb\nPjP3sVmbIFwxS61LAwUvvRxK5u7FWdprRzrn5+QBWyPiBAnNPf/xBvuvo9LAScut\n+LGlUpumjjU2hNzBYOszdxcCUnn7yHZrBoLX6gpAahVLmOTy7H50+bPrAQewoVaH\n/UsB6r3h3yLNr/cSHMfqPHSNsjj4GipZ7xQCubMGiXNDm04QJj594EBLQIyOYIFK\nXeS6Otgtz3u/Qxr7wEyMnkZegTtyoS//lnkjAwvMZ7JaJ9DV528FRF7xYCcruM7k\nNDKHX5ILAgMBAAECggEAAxiHvrLNl2+v3EIeA3C8rACaqG4q3URwey0j/xp5HKtU\n1m6amkKsVssS8FZqPLeoAwC1M8tbxgGoASs8lzkMh6bzfJJHKbepAIpyr+Mn5O7m\n2ZuzqaBg2RcWU3hvNHehZx0P845Q/aGlXlmYq/NwHtZimYaHAbVnAA/CsHL5i/D3\njjKkOquAox4npk7MWxYuNaHiniy6Ns/kr9br44XGAoj1wPiCdvFt4RI/3TZt8koS\nmuqA9RehqlEt2Aa63UWhhqyd+6TNeRczMlm/MYdBSUHdnWdjd+pW9NNcvEJv33oY\nFFOGj/MviCVcPzaWEQZijpmbbJsTbJW2jmlGdoWkxQKBgQDzotBwZ3fkyDt8WQUd\nQDcG8mBQJ9igAuz39bidAzB+HfBdOTLuUI4DlR9vbG5BswYPrVegbKlg4c3f2TAB\nj1j/fzFSKcPntI/f9jGhElo0+p+9+Pbv2voZ+901Vo43/WTtUAPmSPdQFkk5RWAR\n1u7riNRo6oY9ghclqP/5rkKPDQKBgQC+Qr108+CKiioUyVm2IdnXDZnnWNc1onwq\nipb9oSHaQSQNrY9TlzNrdS8VeWM62MeXTo0zBYlZzxecvGw82j+kIxdrRb+PDnAJ\nRVXV7XVMm3K2SaqrdVoL6pWHdvIvAEQ+ejNxCzluabh8YI5WGmXuhwYPVpZHaaDx\ng3BWmG6fdwKBgBLztVcpFVB8qvPvUNCHsEAgFpHlp5o64Agh2yyLlPgaiBoYWvfi\n2Ek7DmjyfFkr/eq2Rzy5dyuMJSGmmW9loTyuvj1v9kdN6ms3kYDAFrhMTqTOexcJ\nZ68hwoFlrEZ6taEoOkVto59dPHDyDpkUqR01VaCbrbmXJwnM7ayUe6T5AoGAaF3X\n64W0EIsF1m01JvGeu5cca4mSVDuTfQqVFQAEv+Kn0lD4pFP2wuV/NHpn8mnj4p4W\nWnyZAYjWXQYHIcJe0rzlJdUW5XR4BL3h/f3KMIG9BT2Xv4IaKRs/dxXKd/nfdZ43\nBbWwhV688o1MxvKoI5Yxvswyl23b+V+uifIIDLUCgYBw7tUCqPp2rAXICEexPCdQ\nF269nk+qmy+KVcKCNnNh2QWKsLQ79o2c15DhIF/CPG3eQ7ncV2fI8OphJAYYJX0N\n1BtfDcfpCR8gFZB42bnSeLWEnqB9UagUiJlqE+GsVkuUP4YeOXe7P88mQPBgrdcP\nBRPlQvXIKM9B8h/L2rcRGw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "assistant@makewell-assistant.iam.gserviceaccount.com",
+  "client_id": "115199286830665008384",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/assistant%40makewell-assistant.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
